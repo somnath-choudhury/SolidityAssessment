@@ -13,4 +13,4 @@ Once the contract is deployed, you can interact with it by calling the mint and 
 
 ## Author
 Metacrafter Somnath Choudhury
-[Discord] (CR7#0226)
+[Discord] (https://discord.com/channels/@me)
